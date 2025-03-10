@@ -1,0 +1,1 @@
+print("Sorir ar kulay na")
